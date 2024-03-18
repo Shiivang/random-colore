@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html , body {
+    width: 100%;
+    height: 100%;
+}
+
+div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+    /* background-image: url(20210304_094235.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat; */
+
+background-color: red;
+
+}
+
+button {
+    padding: 40px 25px;
+    background-color: transparent;
+    border: 2px solid wheat;
+    border-radius: 500px;
+    font-size: 24px;
+    color: aliceblue;
+
+}
